@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dR3J8PLSdazAXH+IoX0kcdGdbc6cTlFQt5kf0gBvWKIl7PaftqcoKzg124Gb0CagaIE2wMUX/0OF404Y4Als4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.dalleh.ext\\Desktop\\Mohammad\\FreeLan\\carseer\\CarseerProject\\CarseerProject\\CarseerProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.dalleh.ext\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\m.dalleh.ext\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\m.dalleh.ext\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\m.dalleh.ext\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\m.dalleh.ext\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\m.dalleh.ext\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\m.dalleh.ext\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\m.dalleh.ext\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
